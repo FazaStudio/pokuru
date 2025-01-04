@@ -1,0 +1,18 @@
+{
+  "url": "https://pokuru.com",
+  "name": "Pokuru",
+  "iconUrl": "/icons/logo.svg",
+  "termsOfUseUrl": "/terms",
+  "privacyPolicyUrl": "/privacy",
+  "manifestVersion": 2,
+  "items": [
+    {
+      "name": "ton_proxy",
+      "platforms": ["ios", "android", "chrome", "firefox", "safari"]
+    },
+    {
+      "name": "ton_addr",
+      "required": true
+    }
+  ]
+}
